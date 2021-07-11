@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sriram4747
 - 👀 I’m interested in Networking and Cyber Security
-- 🌱 I’m currently learning App development using React
+- 🌱 I’m currently learning App development using React and Amazon AWS Certified Cloud Practitioner.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
